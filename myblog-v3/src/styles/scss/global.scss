@@ -1,0 +1,8 @@
+@import './animation.scss';
+@import './variable.scss';
+
+html.dark {
+  .header {
+    color: #e5eaf3;
+  }
+}
